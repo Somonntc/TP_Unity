@@ -327,17 +327,17 @@ PrefabInstance:
     - target: {fileID: 7686894860802967462, guid: adeafb8538bbf034195295d26339c791,
         type: 3}
       propertyPath: radius
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7686894860802967462, guid: adeafb8538bbf034195295d26339c791,
         type: 3}
       propertyPath: timer
-      value: 2
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 7686894860802967462, guid: adeafb8538bbf034195295d26339c791,
         type: 3}
       propertyPath: quantity
-      value: 6
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 7686894860802967463, guid: adeafb8538bbf034195295d26339c791,
         type: 3}
